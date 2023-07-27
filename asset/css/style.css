@@ -1,0 +1,15 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-custom{
+    background-color:#86be3f !important;
+    font-weight: bold;
+}
+
+.navbar-custom a{
+    color:#fff !important;
+}
+
+.navbar-custom a:hover{
+    color:#fff;
+}
